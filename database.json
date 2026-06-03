@@ -1,0 +1,54 @@
+{
+    "appupdate": false,
+    "updateurl": "",
+    "ads": false,
+    "adposter": "",
+    "adlink": "",
+    "movies": [
+        {
+            "id": 1,
+            "name": "Big Buck Bunny",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c5\/Big_buck_bunny_poster_big.jpg",
+            "categories": [
+                "Kids"
+            ],
+            "servers": [
+                "https:\/\/cdn.jsdelivr.net\/npm\/big-buck-bunny-1080p@0.0.6\/video.mp4",
+                "https:\/\/cdn.jsdelivr.net\/npm\/big-buck-bunny-1080p@0.0.6\/video.mp4"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Test",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c5\/Big_buck_bunny_poster_big.jpg",
+            "categories": [
+                "test"
+            ],
+            "servers": [
+                "https:\/\/file-examples.com\/storage\/fe563d7be56a20397a00a4f\/2017\/04\/file_example_MP4_1280_10MG.mp4"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Test",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c5\/Big_buck_bunny_poster_big.jpg",
+            "categories": [
+                "Test"
+            ],
+            "servers": [
+                "https:\/\/file-examples.com\/storage\/fe563d7be56a20397a00a4f\/2017\/04\/file_example_MP4_1280_10MG.mp4"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Test",
+            "poster": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c5\/Big_buck_bunny_poster_big.jpg",
+            "categories": [
+                "Test"
+            ],
+            "servers": [
+                "https:\/\/file-examples.com\/storage\/fe563d7be56a20397a00a4f\/2017\/04\/file_example_MP4_1280_10MG.mp4"
+            ]
+        }
+    ]
+}
